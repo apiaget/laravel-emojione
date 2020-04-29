@@ -1,5 +1,5 @@
 {
-    "name": "christofferok/laravel-emojione",
+    "name": "apiaget/laravel-emojione",
     "type": "library",
     "description": "Laravel helper for EmojiOne",
     "keywords": [
@@ -54,11 +54,5 @@
     },
     "config": {
         "sort-packages": true
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/apiaget/laravel-emojione"
-        }
-    ]
+    }
 }
